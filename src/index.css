@@ -35,7 +35,7 @@ input{
     margin: 5px;
   }
   .card-box{
-    border-radius: 5px;
+    border-radius: 8px;
     display: grid;
       grid-template-columns: 100%;
     }
